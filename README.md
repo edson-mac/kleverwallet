@@ -10,7 +10,7 @@ Tecnologias usadas no projeto:
 -SweetAlert2
 
 
-  <summary><strong>Home</strong></summary><br />
+ <strong>Home</strong></summary><br />
 
 
   <img src="images/01main.png">
@@ -18,7 +18,7 @@ Tecnologias usadas no projeto:
 - [x] When clicking on the "Add Token" button go to the "Add Token" page
 - [x] When click on the icon "Edit" go to the "Edit Token" page
 
-  <summary><strong>Add Token</strong></summary><br />
+  <strong>Add Token</strong></summary><br />
 
 <img src="images/02addtoken.png">
 
@@ -35,7 +35,7 @@ Tecnologias usadas no projeto:
   - [x] The Token name should be unique, the user shouldn't has token names repeated
   - [x] Display the error messages from the form to the user
 
- <summary><strong>Edit Token</strong></summary><br />
+ <strong>Edit Token</strong></summary><br />
 
  <img src="images/03edit.png">
 
