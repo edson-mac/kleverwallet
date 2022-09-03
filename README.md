@@ -20,7 +20,7 @@ Tecnologias usadas no projeto:
 
   <summary><strong>Add Token</strong></summary><br />
 
-<img src="images/02maddtoken.png">
+<img src="images/02addtoken.png">
 
   - [x] The Token field is required
   - [x] The Balance field is required
@@ -37,7 +37,7 @@ Tecnologias usadas no projeto:
 
  <summary><strong>Edit Token</strong></summary><br />
 
- <img src="images/03edin.png">
+ <img src="images/03edit.png">
 
  - [x] When clicking on the "Back" button go to the "Home" page
 >When clicking on the "Save" button
