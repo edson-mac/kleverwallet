@@ -2,7 +2,7 @@ import './App.css'
 import Main from './pages/Main';
 import AddToken from './pages/AddToken';
 import EditToken from './pages/EditToken';
-import { Routes, Route } from 'react-router';
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
 
