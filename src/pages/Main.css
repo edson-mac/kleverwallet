@@ -1,0 +1,56 @@
+.editLogo {
+    width: 5%;
+    min-width: 8px;
+    padding-right: 10px
+}
+
+.mainBox {
+    background-color: #13152a;
+    padding-top: 10px;
+    width: 100%;
+}
+
+.tableHead {
+    padding-top: 20px;
+    display: flex;
+    color: white;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 1.7vh;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.tokenBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 36.9%;
+    padding-right: 38.5%;
+    max-width: 700px;
+    font-size: 2.5vh;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+}
+
+.tokenName {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    position: relative;
+
+}
+
+.tokenAmount {
+color: white;
+position: relative;
+
+}
+
+.tokenList {
+    padding-top: 20px;
+}
