@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import Header from '../componenets/Header';
 import { useProvider } from "../context/provider";
 import editicon from '../assets/edit-icon.svg';
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router";
 import './Main.css';
 
 function Main() {
