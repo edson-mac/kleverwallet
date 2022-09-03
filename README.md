@@ -2,12 +2,15 @@
 
 Este projeto tem como objetivo atender aos requisitos do [Klever - Junior Frontend Test](https://github.com/klever-io/frontend-junior-test)
 
+A versão online do projeto pode ser acessada atravéz deste [Deploy no Vercel](https://kleverwallet.vercel.app/)
+
 Tecnologias usadas no projeto:
 
--HTML/CSS/JAVASCRIPT
--React
--React Router
--SweetAlert2
+* HTML/CSS/JAVASCRIPT
+* Vite
+* React
+* React Router
+* SweetAlert2
 
 
  <strong>Home</strong></summary><br />
