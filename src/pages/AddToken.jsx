@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Header from '../componenets/Header';
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router";
 import { useProvider } from "../context/provider";
 import './AddToken.css'
 
