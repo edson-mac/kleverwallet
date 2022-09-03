@@ -40,10 +40,10 @@ Tecnologias usadas no projeto:
  <img src="images/03edit.png">
 
  - [x] When clicking on the "Back" button go to the "Home" page
->When clicking on the "Save" button
+When clicking on the "Save" button
 - [x]Save the data in localStorage
 - [x]Navigate user to home page
->When clicking on the "Remove" button
+ When clicking on the "Remove" button
 - [x]Remove the date from local storage
 - [x]Navigate user to home page
 
