@@ -28,7 +28,7 @@ Tecnologias usadas no projeto:
 
   >When clicking on the icon "Save" button
   - [x] Save the data in localStorage from Browser
-  - [x]Navigate user to home page
+  - [x] Navigate user to home page
 
   <img src="images/cannotrepeat.png">
   
@@ -41,11 +41,11 @@ Tecnologias usadas no projeto:
 
  - [x] When clicking on the "Back" button go to the "Home" page
 When clicking on the "Save" button
-- [x]Save the data in localStorage
-- [x]Navigate user to home page
+- [x] Save the data in localStorage
+- [x] Navigate user to home page
  When clicking on the "Remove" button
-- [x]Remove the date from local storage
-- [x]Navigate user to home page
+- [x] Remove the date from local storage
+- [x] Navigate user to home page
 
 <img src="images/delete.png">
 <img src="images/delete2.png">
